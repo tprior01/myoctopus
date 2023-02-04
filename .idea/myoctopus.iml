@@ -74,7 +74,7 @@
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.14.1, rbenv: 3.0.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pg (v1.2.3, rbenv: 3.0.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v5.0.1, rbenv: 3.0.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="puma (v6.0.1, rbenv: 3.0.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="puma (v6.0.2, rbenv: 3.0.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.6.2, rbenv: 3.0.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.6.2, rbenv: 3.0.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.0.2, rbenv: 3.0.5) [gem]" level="application" />
