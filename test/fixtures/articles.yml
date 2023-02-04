@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-02-04
+  smart_gas_meters_in_smart_mode: 1
+  smart_gas_meters_in_traditional_mode: 1
+  non_smart_gas_meters: 1
+  smart_electricity_meters_in_smart_mode: 1
+  smart_electricity_meters_in_traditional_mode: 1
+  non_smart_electricity_meters: 1
+  all_smart_meters_in_smart_mode: 1
+  all_smart_meters_in_traditional_mode: 1
+  all_non_smart_meters: 1
+  total_meters: 1
+
+two:
+  date: 2023-02-04
+  smart_gas_meters_in_smart_mode: 1
+  smart_gas_meters_in_traditional_mode: 1
+  non_smart_gas_meters: 1
+  smart_electricity_meters_in_smart_mode: 1
+  smart_electricity_meters_in_traditional_mode: 1
+  non_smart_electricity_meters: 1
+  all_smart_meters_in_smart_mode: 1
+  all_smart_meters_in_traditional_mode: 1
+  all_non_smart_meters: 1
+  total_meters: 1
