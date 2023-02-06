@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Test ruby rails app deployed on AWS.
+```
+                        ___                               
+                     .-'   `'.                            
+                    /         \                           
+                    |         ;                           
+                    |         |           ___.--,         
+           _.._     |0) ~ (0) |    _.---'`__.-( (_.       
+    __.--'`_.. '.__.\    '--. \_.-' ,.--'`     `""`       
+   ( ,.--'`   ',__ /./;   ;, '.__.'`    __                
+   _`) )  .---.__.' / |   |\   \__..--""  """--.,_        
+  `---' .'.''-._.-'`_./  /\ '.  \ _.-~~~````~~~-._`-.__.' 
+        | |  .' _.-' |  |  \  \  '.               `~---`  
+         \ \/ .'     \  \   '. '-._)                      
+          \/ /        \  \    `=.__`~-.                   
+          / /\         `) )    / / `"".`\                 
+    , _.-'.'\ \        / /    ( (     / /                 
+     `--~`   ) )    .-'.'      '.'.  | (                  
+            (/`    ( (`          ) )  '-;                 
+             `      '-;         (-'                       
+```
