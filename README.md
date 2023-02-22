@@ -1,6 +1,6 @@
 # README
 
-[Test ruby rails app deployed on AWS.](http://octo-env.eba-nbcgwawj.eu-west-2.elasticbeanstalk.com/)
+[Test ruby rails app connected to PostgreSQL db and deployed on AWS.](http://octo-env.eba-nbcgwawj.eu-west-2.elasticbeanstalk.com/)
 ```
                         ___                               
                      .-'   `'.                            
