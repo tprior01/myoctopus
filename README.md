@@ -1,4 +1,4 @@
-# README
+# MYOCTOPUS
 
 [Test ruby rails app connected to PostgreSQL db and deployed on AWS.](http://octo-env.eba-nbcgwawj.eu-west-2.elasticbeanstalk.com/)
 ```
